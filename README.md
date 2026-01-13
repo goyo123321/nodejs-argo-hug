@@ -29,6 +29,7 @@ Telegram交流反馈群组：https://t.me/eooceu
 * 直连改ip地址,host,sni为hug抱脸分配的域名
 * fork项目，改index.html文件（Ai生成一个自己的html），改环境变量，然后混淆代码，开启工作流程，自定义镜像名，构建自己的镜像部署更安全
 * 代码混淆网站https://www.obfuscatorjs.com/
+* CF自动访问保活项目https://github.com/goyo123321/hug-Keep-alive-and-monitor
 ## 环境变量
 
 | 变量名 | 是否必须 | 默认值 | 说明 |
